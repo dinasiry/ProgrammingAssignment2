@@ -1,6 +1,8 @@
 ## The first function caches the invertible matrix that has been
-## inputted. It will check to see if the matrix is invertible, if not,
-## it will output a message stating that matrix is not invertible.
+## inputted. The matrix must be invertible and square (meaning same
+## number of rows as to columns in matrix) It will check to see if
+## the matrix is invertible, if not, it will output a message stating
+## that matrix is not invertible.
 ##
 ## The second function takes the cached matrix and inverts it and
 ## caches the inverted matrix.
